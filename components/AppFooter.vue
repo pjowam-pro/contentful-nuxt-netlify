@@ -1,5 +1,5 @@
 <template>
-  <footer></footer>
+  <footer>PJO</footer>
 </template>
 
 <script>
